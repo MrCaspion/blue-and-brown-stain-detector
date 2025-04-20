@@ -1,7 +1,7 @@
 # Biology Image Tool
 
 ## Overview
-It detects and counts blue nuclei and brown-stained spots in histological samples, useful for quantifying biological markers in research.
+It detects and counts blue nuclei and brown-stained spots in histological samples.
 
 ## Requirements
 * Python 3.6+
