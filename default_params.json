@@ -1,0 +1,11 @@
+{
+    "h_threshold": 0.103,
+    "d_threshold": 0.019,
+    "disk_size": 1,
+    "gaussian_sigma": 1.0,
+    "min_distance": 5,
+    "min_area_h": 2,
+    "min_area_d": 5,
+    "marker_radius": 2,
+    "image_path": ""
+}
